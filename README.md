@@ -1,11 +1,17 @@
-<h1 align="center">Hi 👋, I'm ulyq</h1>
+```py
+from GitHub import ReadMe
 
-🌱 I’m currently learning **java**
+class ulyq(ReadMe):
+    "/ulyq7007/ulyq7007/README.md"
 
-💬 Ask me about **anything**
-
-📫 How to reach me **ulyq7007@proton.me**
-
-⚡ Fun fact **I'm homosexual**
-
-🐱 Add me on Discord: idc#1234
+    def __init__(self):
+        self.username = "ulyq"
+        self.contacts = {
+            "Discord": "idc#1234",
+            "Telegram": "@ulyqtokens7007"
+        }
+        self.location = "France, Paris"
+        self.age = "13, born 18 november 2008"
+        self.occupation = "Fulltime Geek"
+        self.operating_system = "Windows / sometimes linux"
+```
