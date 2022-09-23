@@ -11,7 +11,7 @@ class ulyq(ReadMe):
             "Telegram": "@ulyqtokens7007"
         }
         self.location = "France, Paris"
-        self.age = "13, born 18 november 2008"
+        self.age = "13"
         self.occupation = "Fulltime Geek"
         self.operating_system = "Windows / sometimes linux"
 ```
