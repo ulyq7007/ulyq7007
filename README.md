@@ -7,11 +7,11 @@ class ulyq(ReadMe):
     def __init__(self):
         self.username = "ulyq"
         self.contacts = {
-            "Discord": "idc#1234",
-            "Telegram": "@ulyqtokens7007"
+            "Discord": "no longer alive#0001",
+            "Telegram": "@ulyq4"
         }
         self.location = "France, Paris"
-        self.age = "13"
+        self.age = "?"
         self.occupation = "Fulltime Geek"
         self.operating_system = "Windows / sometimes linux"
 ```
